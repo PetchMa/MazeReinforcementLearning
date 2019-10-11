@@ -1,2 +1,3 @@
 # MazeReinforcementLearning
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+This is the first attempt at writting at implementing a Qlearning algorithm in Java take a look!
+![alt text](https://github.com/PetchMa/MazeReinforcementLearning/blob/master/IT%20WORKED.PNG)
